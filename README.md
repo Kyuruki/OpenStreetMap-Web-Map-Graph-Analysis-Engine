@@ -1,8 +1,8 @@
-# OpenStreetMap-UIC
+# OpenStreetMap Web Map & Graph Analysis Engine
 
 ## Overview
 
-OpenStreetMap-UIC is a project designed to work with OpenStreetMap data, providing tools for graph-based operations, server-side functionality, and web-based visualization. The project includes a variety of components, such as a server, tests, and a web interface for map visualization.
+OpenStreetMap Web Map & Graph Analysis Engine is a project designed to work with OpenStreetMap data, providing tools for graph-based operations, server-side functionality, and web-based visualization. The project includes a variety of components, such as a server, tests, and a web interface for map visualization.
 
 <img width="3747" height="1945" alt="screenshot" src="https://github.com/user-attachments/assets/35a48bcd-f0d3-42d7-acad-ac5870ab783e" />
 
